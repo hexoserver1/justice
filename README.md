@@ -1,3 +1,6 @@
+[![Run on Repl.it](https://repl.it/badge/github/repl-it-discord/justice)](https://repl.it/github/repl-it-discord/justice)
+
+
 # Justice
 
 Repl.it Discord security bot, ready to srop crime!
